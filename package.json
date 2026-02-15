@@ -10,7 +10,7 @@
         "url": "https://github.com/alywasr7x/Baileys"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "PHI.R7X",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://qwerty-xcv/alywasr7x/issues"
+      "url": "https://Alywasr7x/issues"
     }
 }
